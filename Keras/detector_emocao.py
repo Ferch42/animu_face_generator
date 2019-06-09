@@ -68,7 +68,7 @@ def get_emocao(nome_imagem):
         else:
             return emotion_dict[4] #Neutral
 
-emotion = get_emocao('eu.jpg')
+emotion = get_emocao('happyman2.jpg')
 print(emotion)
 emotion = get_emocao('mulher_feliz.jpg')
 print(emotion)
