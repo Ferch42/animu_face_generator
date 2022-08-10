@@ -114,7 +114,7 @@ mujoco-py==1.50.1.68
 multidict==4.2.0
 multipledispatch==0.4.9
 mutagen==1.39
-nbconvert==4.2.0
+nbconvert==6.3.0
 nbformat==4.2.0
 networkx==2.2
 nltk==3.2.2
